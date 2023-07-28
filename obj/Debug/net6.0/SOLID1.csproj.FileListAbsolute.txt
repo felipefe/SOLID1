@@ -1,0 +1,15 @@
+D:\Documents\VSCode\CursoSOLID\SOLID1\bin\Debug\net6.0\SOLID1.exe
+D:\Documents\VSCode\CursoSOLID\SOLID1\bin\Debug\net6.0\SOLID1.deps.json
+D:\Documents\VSCode\CursoSOLID\SOLID1\bin\Debug\net6.0\SOLID1.runtimeconfig.json
+D:\Documents\VSCode\CursoSOLID\SOLID1\bin\Debug\net6.0\SOLID1.dll
+D:\Documents\VSCode\CursoSOLID\SOLID1\bin\Debug\net6.0\SOLID1.pdb
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.csproj.AssemblyReference.cache
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.AssemblyInfoInputs.cache
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.AssemblyInfo.cs
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.dll
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\refint\SOLID1.dll
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.pdb
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\SOLID1.genruntimeconfig.cache
+D:\Documents\VSCode\CursoSOLID\SOLID1\obj\Debug\net6.0\ref\SOLID1.dll
